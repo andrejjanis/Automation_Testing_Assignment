@@ -1,0 +1,17 @@
+{
+    "agvCount": 3,
+    "totalDurationTime": 4000,
+    "taktTimes": [
+        { "from": 1, "to": 2, "time": 2600 },
+        { "from": 2, "to": 1, "time": 3600 },
+        { "from": 3, "to": 1, "time": 1600 }
+    ],
+    "distances": [
+        { "from": 0, "to": 1, "distance": 250 },
+        { "from": 0, "to": 2, "distance": 300 },
+        { "from": 0, "to": 3, "distance": 150 },
+        { "from": 1, "to": 2, "distance": 250 },
+        { "from": 1, "to": 3, "distance": 300 },
+        { "from": 2, "to": 3, "distance": 150 }
+    ]
+}

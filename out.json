@@ -1,0 +1,18 @@
+﻿{
+	"transportOrders": [
+		{"time": 1450,"agv": 1,"from": 0,"to": 3},
+		{"time": 1600,"agv": 1,"from": 3,"to": 1},
+		{"time": 1900,"agv": 1,"from": 1,"to": 0},
+		{"time": 2350,"agv": 1,"from": 0,"to": 1},
+		{"time": 2600,"agv": 1,"from": 1,"to": 2},
+		{"time": 2850,"agv": 1,"from": 2,"to": 0},
+		{"time": 3050,"agv": 2,"from": 0,"to": 3},
+		{"time": 3200,"agv": 2,"from": 3,"to": 1},
+		{"time": 3300,"agv": 1,"from": 0,"to": 2},
+		{"time": 3500,"agv": 2,"from": 1,"to": 0},
+		{"time": 3600,"agv": 1,"from": 2,"to": 1}
+	],
+	"idleTime": 5100,
+	"penaltyTime": 0,
+	"minimumAgvCount": 2
+}
